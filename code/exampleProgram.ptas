@@ -1,0 +1,5 @@
+var endOfScreen = 404
+
+while (get Player.onGround == True) {
+	2,R
+}

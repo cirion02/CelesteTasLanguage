@@ -1,0 +1,9 @@
+.stack-work/
+*~
+app/
+dist-newstyle/
+test/
+CHANGELOG.md
+*.exe
+parser.info
+LICENSE
